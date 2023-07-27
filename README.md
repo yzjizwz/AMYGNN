@@ -2,7 +2,7 @@
 ## The code is used for the prediction of amyloid protein formation
 
 ## The basis for achieving code
-python--->3.8.12
+python--->3.8.12\n
 torch---->1.12.1+cu116
 torch_geometric---->2.1.0
 numpy----->1.23.0
